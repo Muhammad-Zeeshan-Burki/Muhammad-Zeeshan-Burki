@@ -9,7 +9,7 @@ I'm an AI enthusiast and software developer specializing in **Deep Learning, Gen
 * 🌱 Exploring **LLM fine-tuning techniques** and **vector databases for efficient knowledge retrieval**
 * 🤝 Open to collaborate on **AI/ML projects**, **LLM applications**, and **innovative chatbot solutions**
 * 💬 Ask me about **LangChain, Transformers, RAG architectures, Hugging Face, and Python**
-* 📫 How to reach me: [Email](zeshanburki42@gmail.com)
+* 📫 How to reach me: [Email](mailto:zeshanburki42@gmail.com)
 * ⚡ Fun fact: I enjoy deploying practical AI solutions on Hugging Face Spaces and experimenting with emerging AI architectures
 
 ## 🛠️ Skills & Technologies
