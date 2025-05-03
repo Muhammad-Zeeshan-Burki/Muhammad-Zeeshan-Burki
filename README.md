@@ -24,14 +24,14 @@ I'm an AI enthusiast and software developer specializing in **Deep Learning, Gen
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-41BDF5?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-41BDF5?style=flat)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ### Generative AI & NLP
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/-Groq-00AEEF?style=flat&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-00AEEF?style=flat)
 ![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Vector Databases](https://img.shields.io/badge/-Vector_Databases-0F9D58?style=flat&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/-Vector_Databases-0F9D58?style=flat)
 
 ### Development & Deployment
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -39,6 +39,7 @@ I'm an AI enthusiast and software developer specializing in **Deep Learning, Gen
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
 
 ## 🚀 Projects
 
