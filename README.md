@@ -66,7 +66,7 @@ An AI model that transcribes and summarizes videos using open-source LLMs and Hu
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/muhammad-zeeshan-burki/)
+- [LinkedIn]([https://www.linkedin.com/in/muhammad-zeeshan-burki/](https://www.linkedin.com/in/muhammad-zeeshan-burki/))
 - [Hugging Face](https://huggingface.co/Zeeshan42)
 ---
 
