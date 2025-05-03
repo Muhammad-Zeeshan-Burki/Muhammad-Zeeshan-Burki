@@ -40,34 +40,37 @@ I'm an AI enthusiast and software developer specializing in **Deep Learning, Gen
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### [Mental Health AI Assistant]([https://github.com/Muhammad-Zeeshan-Burki/mental-health-ai-assistan](https://github.com/Muhammad-Zeeshan-Burki/Personal-Psychologist-chatbot)t)
-An advanced AI chatbot leveraging LangChain and LLMs to provide mental health support and psychological guidance. Built with privacy and ethical considerations at its core.
-- **Tech Stack**: Python, LangChain, Groq API, Streamlit
-- **Features**: Conversation memory, therapeutic techniques, customizable responses
+### [Personal Psychologist Chatbot](https://github.com/Muhammad-Zeeshan-Burki/Personal-Psychologist-chatbot)
+An AI-powered chatbot designed to provide psychological support and mental health guidance.
 
-### [Voice-to-Voice AI Chatbot](https://github.com/Muhammad-Zeeshan-Burki/voice-to-voice-chatbot)
-A real-time conversational AI system that combines speech-to-text, LLM processing, and text-to-speech to create natural voice interactions.
-- **Tech Stack**: Python, OpenAI Whisper, Groq API, gTTS
-- **Features**: Real-time processing, speech recognition, voice synthesis
+### [Movie Recommender System](https://github.com/Muhammad-Zeeshan-Burki/Movie-Recommender-System-Project)
+A machine learning-based system that recommends movies based on user preferences and viewing history.
 
-### [RAG-Powered Document Assistant](https://github.com/Muhammad-Zeeshan-Burki/rag-document-assistant)
-A Retrieval-Augmented Generation system that allows users to interact with their documents through natural language queries.
-- **Tech Stack**: LangChain, FAISS, OpenAI
-- **Features**: Document parsing, semantic search, context-aware responses
+Here are some of the AI/ML projects I've worked on:
 
-### [PDF Question Answering System](https://github.com/Muhammad-Zeeshan-Burki/pdf-question-answering)
-An application that extracts information from PDF documents and provides accurate answers to user queries.
-- **Tech Stack**: Python, LangChain, Streamlit
-- **Features**: PDF parsing, information retrieval, natural language understanding
+### [Voice-to-Voice AI Chatbot](https://github.com/Muhammad-Zeeshan-Burki/voice-ai-chatbot)
+A real-time AI chatbot using OpenAI Whisper for speech-to-text, Groq's API for LLM interaction, and gTTS for text-to-speech conversion.
+
+### [Video Transcription & Summarization](https://github.com/Muhammad-Zeeshan-Burki/video-summarization-ai)
+An AI model that transcribes and summarizes videos using open-source LLMs and Hugging Face APIs.
+
+---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Zeeshan-Burki&show_icons=true&theme=radical)
+![Muhammad Zeeshan Burki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Zeeshan-Burki&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zeeshan-Burki&layout=compact&theme=radical)
+---
 
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-zeeshan-burki/)
+- [Hugging Face](https://huggingface.co/Zeeshan42)
+---
+
+🌙 **Dark Mode Ready!** 🚀
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
