@@ -65,17 +65,15 @@ An AI model that transcribes and summarizes videos using open-source LLMs and Hu
 ---
 
 ## 🌐 Connect with Me
- -[LinkedIn](https://www.linkedin.com/in/muhammad-zeeshan-burki/)
-
+- [LinkedIn](https://www.linkedin.com/in/muhammad-zeeshan-burki/)
 - [Hugging Face](https://huggingface.co/Zeeshan42)
 ---
 
 🌙 **Dark Mode Ready!** 🚀
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-zeeshan-burki/))
+[![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)]([https://huggingface.co/yourprofile](https://huggingface.co/Zeeshan42))
 
 ---
 
