@@ -42,7 +42,7 @@ I'm an AI enthusiast and software developer specializing in **Deep Learning, Gen
 
 ## 🚀 Featured Projects
 
-### [Mental Health AI Assistant](https://github.com/Muhammad-Zeeshan-Burki/mental-health-ai-assistant)
+### [Mental Health AI Assistant]([https://github.com/Muhammad-Zeeshan-Burki/mental-health-ai-assistan](https://github.com/Muhammad-Zeeshan-Burki/Personal-Psychologist-chatbot)t)
 An advanced AI chatbot leveraging LangChain and LLMs to provide mental health support and psychological guidance. Built with privacy and ethical considerations at its core.
 - **Tech Stack**: Python, LangChain, Groq API, Streamlit
 - **Features**: Conversation memory, therapeutic techniques, customizable responses
