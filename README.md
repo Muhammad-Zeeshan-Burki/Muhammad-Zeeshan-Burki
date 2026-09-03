@@ -17,7 +17,7 @@
 
 I'm a BS Artificial Intelligence student at **Pak-Austria Fachhochschule Institute of Applied Sciences and Technology (PAF-IAST)**, working across two closely related tracks: **computer vision research** and **applied generative AI engineering**.
 
-- 🔬 **Research Assistant** on an HEC-funded project (**HEREF 3067**) applying ML, computer vision, and LLMs to end-to-end **Chronic Kidney Disease prediction**, under Dr. Rashid Naseem
+- 🔬 **Research Assistant** on an HED-funded KP project (**HEREF 3067**) applying ML, computer vision, and LLMs to end-to-end **Chronic Kidney Disease prediction**, under Dr. Rashid Naseem
 - 🧑‍💻 **Data Science Team Lead**, Google Developer Group (GDG) PAF-IAST
 - 🎯 Research focus: **CNN architecture design and explainability (Grad-CAM)** for medical imaging, extending toward **attention mechanisms and vision-language models**
 - 🛠️ On the applied side, I design and ship **RAG pipelines, multi-agent LLM systems, and conversational AI products** with LangChain, LangGraph, and Hugging Face
